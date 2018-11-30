@@ -1,0 +1,22 @@
+{
+    "name": "butterfly",
+    "displayName": "Butterfly",
+    "description": "A VS Code theme that I like.",
+    "version": "0.0.1",
+    "publisher": "Zakariae",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Butterfly",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Butterfly-color-theme.json"
+            }
+        ]
+    }
+}
